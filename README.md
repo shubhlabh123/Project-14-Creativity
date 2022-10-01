@@ -16,7 +16,7 @@ In this project i have created a Dance Homepage from scratch. And i have learnt 
 
 ### My Project is looking like :
 
-![Web Site Image](./Assets/screencapture-127-0-0-1-5500-index-html-2022-07-28-21_03_16.png)
+![Web Site Image](./completedScreenshot.jpg)
 
 ### You can Check it Live on Below Link :
 
